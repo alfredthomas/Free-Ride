@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Find an ETA for your local PresidiGo bus stop.",
+          "examplePhrases": [
+            "Alexa open free ride",
+            "Alexa ask free ride for the next bus",
+            "Alexa set free ride stop"
+          ],
+          "name": "Free Ride",
+          "description": "Find Realtime ETA for Presidigo bus stop."
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "PUBLIC_TRANSPORTATION",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.c16a6fda-008a-418a-9c37-963cd0cb0573",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:928654099565:function:alexa-skill-presidigo"
+              }
+            }
+          }
+        }
+      },
+      "resources": {
+        "manifest": {
+          "eTag": "25df42a1238d1172db267308e8ac9e3f"
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": "e0ab0d0dbcf6fb4921383ec1a4473f3a"
+          }
+        },
+        "lambda": [
+          {
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "arn": "arn:aws:lambda:us-east-1:928654099565:function:alexa-skill-presidigo",
+            "awsRegion": "us-east-1",
+            "codeUri": "lambda/custom",
+            "functionName": "alexa-skill-presidigo",
+            "handler": "index.handler",
+            "revisionId": "b3b772b7-d453-45ec-b2e7-3eb48fad9004",
+            "runtime": "nodejs8.10"
+          }
+        ]
+      }
+    }
+  }
+}

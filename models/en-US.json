@@ -1,0 +1,54 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "free ride",
+      "intents": [
+        {
+          "name": "SetStopIntent",
+          "samples": [
+            "change stop",
+            "set stop",
+            "add stop"
+          ],
+          "slots": []
+        },
+        {
+          "name": "ETAIntent",
+          "samples": [
+            "E T A",
+            "E. T. A",
+            "ETA",
+            "next bus",
+            "the next bus"
+          ],
+          "slots": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ]
+    }
+  }
+}

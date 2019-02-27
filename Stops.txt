@@ -1,0 +1,59 @@
+Presidio Hills
+31734	Presidio Transit Center
+382971	Pershing Square
+31823	Inspiration Point
+382972	East Washington (outbound)
+382973	West Washington (outbound)
+382974	Rob Hill Campground
+1681820	Harrison Blvd/ Kobbe Ave
+382975	Coastal Trail
+31792	25th Ave
+31793	Baker Beach
+31794	Stilwell Rd
+31795	Pershing Dr
+1713926	31796-Caulfield Cut
+268755	Public Health Services District
+268759	Presidio Landmark
+268762	Building 1450
+31808	West Washington (inbound)
+61264	East Washington (inbound)
+1681822	Deems Road
+1681821	Officer's Club
+
+Crissy Field
+3939877	Presidio Transit Center
+345850	Montgomery St
+377709	Golden Gate Club
+61151	Park Blvd
+31764	Kobbe Ave
+505839	Presidio Institute
+31766	Fort Scott
+31768	Log Cabin
+268736	Golden Gate Overlook
+268740	Golden Gate West
+31770	Golden Gate Bridge
+382958	Pilot's Row
+382959	Lendrum Ct
+382960	Storey Ave
+380160	Cavlary Stables
+382961	Stilwell Hall
+642965	Bldg 640
+382962	Crissy Field Marsh
+382963	Crissy Field Center
+382967	Girard Rd
+31986	Presidio Community YMCA (inbound)
+
+Downtown
+31734	Presidio Transit Center
+31925	Presidio Community YMCA (outbound)
+31928	Tides Converge (outbound)
+31930	Letterman Digital Arts Center
+31933	Lombard Gate
+41492	Van Ness &amp; Union (Drop Off)
+1725020	Drumm &amp; California (Embarcadero BART Drop Off)
+31955	Main &amp; Howard (Transbay Terminal)
+839326	Drumm &amp; California (Embarcadero BART Pick Up)
+41520	Van Ness &amp; Union (Pick Up)
+31980	Letterman Digital Arts Center
+31983	Tides Converge (inbound)
+31986	Presidio Community YMCA (inbound)

@@ -1,0 +1,5 @@
+ID		PatternID	RouteName	
+
+673		1012		"Presidio Hills"
+689		9937		"Crissy Field"
+66		240			"Downtown"
