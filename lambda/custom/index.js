@@ -249,17 +249,17 @@ const data = {
         {
             name: 'Presidio Hills',
             id: 673,
-            pattern_id: 1012,
+            pattern_id: 13738,
         },
         {
             name: 'Crissy Field',
             id: 689,
-            pattern_id: 9937,
+            pattern_id: 13736,
         },
         {
             name: 'Downtown',
             id: 66,
-            pattern_id: 240,
+            pattern_id: 13737,
         }
     ],
     stops:[
